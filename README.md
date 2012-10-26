@@ -1,0 +1,4 @@
+L17-thread-safety
+=================
+
+Examples of confinement and using threadsafe collections. 
